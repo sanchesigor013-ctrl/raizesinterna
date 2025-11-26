@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Resiliência Emocional em 21 Dias</title>
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '844232941297241');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=844232941297241&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+
+
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f7f7f7;
+            color: #222;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #4a57a8;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        section {
+            max-width: 850px;
+            margin: 30px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+        }
+
+        h1, h2 {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        .btn {
+            display: block;
+            text-align: center;
+            background: #4a57a8;
+            color: white;
+            padding: 14px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 300px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 13px;
+            margin: 30px 0;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Desenvolva Resiliência Emocional em 21 Dias</h1>
+    <p>Mesmo que você já tenha tentado de tudo.</p>
+</header>
+
+<section>
+    <h2>Recupere sua força interna. Sua transformação começa agora.</h2>
+    <p>Um método simples e prático para controlar emoções, reduzir ansiedade e recuperar sua força interna.</p>
+
+    <h2>Oferta</h2>
+    <p><strong>DE: R$98,90<br>POR APENAS: R$47,90</strong></p>
+
+    <a class="btn" href="https://pay.kiwify.com.br/Lzq7xPi">COMEÇAR AGORA</a>
+</section>
+
+<section>
+    <h2>Minha História</h2>
+    <p>Durante anos, eu vivi preso dentro da minha própria mente. Explodia por qualquer coisa, perdia o controle das emoções e depois vinha aquela sensação pesada de culpa e cansaço.</p>
+
+    <p>Eu acordava todos os dias prometendo que “agora vai”, mas bastava uma pequena frustração para tudo desmoronar de novo. Eu me sentia no limite… sempre no automático… sem força, sem direção.</p>
+
+    <p>Até que um dia eu percebi que não era falta de vontade. Era falta de ferramentas. Eu não sabia como lidar com minhas próprias emoções — e isso estava destruindo minha paz, meus relacionamentos e até minha rotina.</p>
+
+    <p>Foi aí que comecei uma jornada intensa de autoconhecimento, estudos e práticas reais para recuperar meu equilíbrio. E quando finalmente entendi como desenvolver resiliência emocional, tudo mudou: pensamentos leves, reações conscientes, clareza e estabilidade emocional.</p>
+
+    <p>Agora, reuni todas essas práticas dentro deste método — para que você não precise passar por tudo sozinho como eu passei.</p>
+</section>
+
+<section>
+    <h2>O que você vai aprender</h2>
+    <ul>
+        <li>Técnicas simples de autocontrole</li>
+        <li>Como reduzir ansiedade em minutos</li>
+        <li>Como criar força emocional</li>
+        <li>Como parar de reagir impulsivamente</li>
+        <li>Como construir estabilidade emocional</li>
+    </ul>
+
+    <a class="btn" href="https://pay.kiwify.com.br/Lzq7xPi">Quero recuperar meu equilíbrio emocional</a>
+</section>
+
+<section>
+    <h2>Garantia Incondicional</h2>
+    <p>Se você não sentir melhoria em 7 dias, devolvo seu dinheiro sem burocracia.</p>
+</section>
+
+<footer>
+    © 2025 — Todos os direitos reservados.
+</footer>
+
+</body>
+</html>
